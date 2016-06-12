@@ -3,4 +3,6 @@ name = "sleep"
 version = "0.1.0"
 authors = ["Chiu-Hsiang Hsu <wdv4758h@gmail.com>"]
 
-[dependencies]
+[[bin]]
+name = "sleepsort"
+path = "src/main.rs"
